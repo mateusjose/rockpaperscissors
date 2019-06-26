@@ -5,7 +5,7 @@ To play rock, paper, scissors you need to send a message to the Bot`s DM
 
 Commands:
 
-  Play Command: ==new game
+  	Play Command: ==new game
 
 	Join Command: ==join gameId#<gameid>
   
